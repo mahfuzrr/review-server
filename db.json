@@ -1,0 +1,211 @@
+{
+    "review-api": [
+        {
+            "name": "The Shawshank Redemption",
+            "thumbnail" : "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+            "description": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.",
+            "release date": "October 14, 1994",
+            "director": "Frank Darabont",
+            "writer": "Stephen King",
+            "category": ["Thriller", "Crime"],
+            "length": "2h 22m",
+            "rating": "9.3/10",
+            "budget": "",
+            "cast" : [
+                {"name" : "Morgan Freeman", "image:": "https://www.bu.edu/files/2013/05/t2_MF-Headshot-030813.jpg"},
+                {"name" : "Tim Robbins", "image": "https://image.tmdb.org/t/p/w235_and_h235_face/A4fHNLX73EQs78f2G6ObfKZnvp4.jpg"},
+                {"name" : "Clancy Brown", "image": "https://image.tmdb.org/t/p/w500/9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg"},
+                {"name": "Bob Gunton", "image": "https://image.tmdb.org/t/p/w500/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Forrest Gump",
+            "thumbnail" : "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+            "description": "Slow-witted Forrest Gump (Tom Hanks) has never thought of himself as disadvantaged, and thanks to his supportive mother (Sally Field), he leads anything but a restricted life. Whether dominating on the gridiron as a college football star, fighting in Vietnam or captaining a shrimp boat, Forrest inspires people with his childlike optimism. But one person Forrest cares about most may be the most difficult to save -- his childhood love, the sweet but troubled Jenny (Robin Wright)",
+            "release date": "July 6, 1994",
+            "director": "Robert Zemeckis",
+            "writer": "Winston Groom",
+            "category": ["Comedy", "Romance"],
+            "length": "2h 22m",
+            "rating": "8.8/10",
+            "budget": "",
+            "cast" : [
+                {"name" : "Tom Hanks", "image:": "https://m.media-amazon.com/images/M/MV5BOTUyNjY0NTItYmMyMi00YWU5LThjZDEtYmY5MDY5YjJjYzJkXkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UX500_CR0,26,500,281_.jpg"},
+                {"name" : "Robin Wright", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Robin_Wright_Cannes_2017_%28cropped%29.jpg/330px-Robin_Wright_Cannes_2017_%28cropped%29.jpg"},
+                {"name" : "Gary Sinise", "image": "https://m.media-amazon.com/images/M/MV5BMzE4NzcyMzU3OV5BMl5BanBnXkFtZTYwOTM2NDE2._V1_.jpg"},
+                {"name": "Sally Field", "image": "https://www.thelist.com/img/gallery/tragic-details-about-sally-field/intro-1707477317.jpg"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "The Dark Knight",
+            "thumbnail" : "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+            "description": "With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.",
+            "release date": "July 18, 2008",
+            "director": "Christopher Nolan",
+            "writer": "Christopher Nolan",
+            "category": ["Action", "Crime "],
+            "length": "2h 32m",
+            "rating": "9/10",
+            "budget": "",
+            "cast" : [
+                {"name" : "Christian Bale", "image:": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg"},
+                {"name" : "Heath Ledger", "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Heath_Ledger_%282%29.jpg"},
+                {"name" : "Gary Oldman", "image": "https://blogs-images.forbes.com/carolpinchefsky/files/2012/03/GaryOldmanCommissionerGordon.jpg"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Interstellar",
+            "thumbnail" : "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+            "description": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
+            "release date": "October 26, 2014",
+            "director": "Christopher Nolan",
+            "writer": "Christopher Nolan",
+            "category": ["Sci-fi", "Adventure"],
+            "length": "2h 49m",
+            "rating": "8.7/10",
+            "cast" : [
+                {"name" : "Matthew McConaughey", "image:": "https://cdn.britannica.com/40/174140-050-0DDBED29/Matthew-McConaughey-2012.jpg"},
+                {"name" : "Jessica Chastain", "image": "https://www.hollywoodinsider.com/wp-content/uploads/2021/02/Hollywood-Insider-Jessica-Chastain-Facts-32.png"},
+                {"name" : "Anne Hathaway", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Anne_Hathaway_Face.jpg/220px-Anne_Hathaway_Face.jpg"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Oppenheimer",
+            "thumbnail" : "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+            "description": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
+            "release date": "July 21, 2023",
+            "director": "Christopher Nolan",
+            "writer": "Christopher Nolan",
+            "category": ["Thriller", "Historical drama"],
+            "length": "3h 0m",
+            "rating": "8.3/10",
+            "cast" : [
+                {"name" : "Cillian Murphy", "image:": "https://www.nickiswift.com/img/gallery/the-extreme-lengths-cillian-murphy-went-to-for-his-peaky-blinders-role/intro-1705692019.jpg"},
+                {"name" : "Robert Downey Jr.", "image": "https://www.thenews.com.pk/assets/uploads/updates/2024-05-08/1186449_6547910_Robert-Downey-Jr_updates.jpg"},
+                {"name" : "Florence Pugh", "image": "https://www.mymcmurray.com/wp-content/blogs.dir/sites/11/2019/06/NYET414-618_2019_013921.jpg"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Spider-Man: No Way Home",
+            "thumbnail" : "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+            "description": "With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "release date": "December 17, 2021",
+            "director": "Jon Watts",
+            "writer": "Jon Watts",
+            "category": ["Action", "Fantasy"],
+            "length": "2h 28m",
+            "rating": "8.2/10",
+            "cast" : [
+                {"name" : "Tom Holland", "image:": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tom_Holland_by_Gage_Skidmore.jpg/640px-Tom_Holland_by_Gage_Skidmore.jpg"},
+                {"name" : "Zendaya", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/1200px-Zendaya_-_2019_by_Glenn_Francis.jpg"},
+                {"name" : "Tobey Maguire", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tobey_Maguire_2014.jpg/640px-Tobey_Maguire_2014.jpg"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Spider-Man: Into the Spider-Verse",
+            "thumbnail" : "https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png",
+            "description": "Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets Peter Parker, he soon realizes that there are many others who share his special, high-flying talents. Miles must now use his newfound skills to battle the evil Kingpin, a hulking madman who can open portals to other universes and pull different versions of Spider-Man into our world.",
+            "release date": " December 14, 2018",
+            "director": "Peter Ramsey,",
+            "writer": "Rodney Rothman",
+            "category": ["Family", "Action"],
+            "length": "1h 56m",
+            "rating": "8.4/10",
+            "cast" : [
+                {"name" : "Shameik Moore", "image:": "https://imagevars.gulfnews.com/2018/12/26/tab--Shameik-Moore-(Read-Only)_resources1_16a0854a175_large.jpg"},
+                {"name" : "Hailee Steinfeld", "image": "https://www.nickiswift.com/img/gallery/the-real-meaning-behind-hailee-steinfelds-love-myself/intro-1610168425.jpg"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Charlie",
+            "thumbnail" : "https://upload.wikimedia.org/wikipedia/en/4/4e/Charlie_2015-Malayalam_film_poster.jpg",
+            "description": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.",
+            "release date": "24 December 2015",
+            "director": "Martin Prakkat",
+            "writer": "Martin Prakkat",
+            "category": ["Romance", "Thriller"],
+            "length": "2h 15m",
+            "rating": "8/10",
+            "cast" : [
+                {"name" : "Dulquer Salmaan"},
+                {"name" : "Parvathy Thiruvothu"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Batman Begins",
+            "thumbnail" : "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "description": "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+            "release date": "15 Jun 2005",
+            "director": "Christopher Nolan",
+            "writer": "Bob Kane",
+            "category": ["Action", "Crime", "Drama"],
+            "length": "2h 20m",
+            "rating": "8.2/10",
+            "cast" : [
+                {"name" : "Christian Bale"},
+                {"name" : "Michael Caine"},
+                {"name" : "Ken Watanabe"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Breaking Bad",
+            "thumbnail" : "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg",
+            "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.",
+            "release date": "20 Jan 2008",
+            "director": "Vince Gilligan",
+            "writer": "Vince Gilligan",
+            "category": ["Thriller", "Crime", "Drama"],
+            "length": "2h 22m",
+            "rating": "9.5/10",
+            "cast" : [
+                {"name" : "Bryan"},
+                {"name" : "Aaron Paul"},
+                {"name" : "CranstonAnna Gunn"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Thor: Ragnarok",
+            "thumbnail" : "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
+            "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela",
+            "release date": "03 Nov 2017",
+            "director": "Taika Waititi",
+            "writer": "Eric Pearson",
+            "category": ["Action", "Adventure", "Comedy"],
+            "length": "2h 10m",
+            "rating": "7.9/10",
+            "cast" : [
+                {"name" : "Chris Hemsworth"},
+                {"name" : "Tom Hiddleston"},
+                {"name" : "Cate Blanchett"}
+            ],
+            "isFavourite": "false"
+        },
+        {
+            "name": "Superman Returns",
+            "thumbnail" : "https://m.media-amazon.com/images/M/MV5BNDUzZGRhNzktYTZkMC00YWFiLTljMDEtMTk2OWJhYzAyYmY2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+            "description": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.",
+            "release date": "30 Jun, 2006",
+            "director": "Bryan Singer",
+            "writer": "Michael Dougherty",
+            "category": ["Action", "Adventure", "Sci-Fi"],
+            "length": "2h 34m",
+            "rating": "9.3/10",
+            "cast" : [
+                {"name" : "Brandon Routh"},
+                {"name": "Kevin Spacey"},
+                {"name": "Kate Bosworth"}
+            ],
+            "isFavourite": "false"
+        }
+    ]
+}
